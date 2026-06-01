@@ -1,9 +1,1 @@
-[
-  {
-    "id": "smoke-test",
-    "title": "TEST smoke event",
-    "start": "2026-06-09T15:00",
-    "end": "2026-06-09T15:30",
-    "location": "test"
-  }
-]
+[]
