@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "feed-test",
+    "title": "📅 Feed test — Antimo can delete",
+    "start": "2026-06-02T12:00",
+    "end": "2026-06-02T12:30",
+    "location": "cal.antimo.fm"
+  }
+]
