@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "id": "t-busy",
+    "title": "Blocker test",
+    "start": "2026-06-09T15:00"
+  }
+]
