@@ -28,5 +28,11 @@
     "title": "Bring out food and blue bin",
     "start": "2026-06-15T18:00:00",
     "end": "2026-06-15T18:30:00"
+  },
+  {
+    "id": "b1753a14d5f5",
+    "title": "Bring out food, green and black bin",
+    "start": "2026-06-22T18:00:00",
+    "end": "2026-06-22T18:30:00"
   }
 ]
