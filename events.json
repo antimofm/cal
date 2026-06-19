@@ -166,5 +166,12 @@
     "title": "Bring out food, green and black bin",
     "start": "2026-11-23T18:00:00",
     "end": "2026-11-23T18:30:00"
+  },
+  {
+    "id": "a1354b945cfd",
+    "title": "Gruffalo & Stick Man — gates open",
+    "start": "2026-06-20T10:00:00",
+    "end": "2026-06-20T10:00:00",
+    "desc": "Gates open 10:00, show starts 11:00, finishes ~12:00. King's College, Cambridge."
   }
 ]
